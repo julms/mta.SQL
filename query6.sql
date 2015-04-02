@@ -1,0 +1,1 @@
+SELECT name AS stop_f FROM stations WHERE stations.lines LIKE "%F%"
